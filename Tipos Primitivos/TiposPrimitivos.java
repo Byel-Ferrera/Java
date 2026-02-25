@@ -82,8 +82,8 @@ public class TiposPrimitivos {
         confirmo que recebi o salário de <salário>, na data <data>.       
         */
 
-        String name01 = "Gabryel";
-        String address = "Rua J, Quadra 11, Numero 36";
+        String name01 = "Pequeno Príncipe";
+        String address = "Asteróide B312";
         double wege = 2500.00;
         String date = "20/02/2026";
 
